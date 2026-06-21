@@ -24,19 +24,6 @@
   - Anthropic 兼容 Messages API
   - DeepSeek Anthropic 兼容 API
 
-## 使用截图
-
-CLI 帮助信息：
-
-![pico help](assets/screenshots/pico-help.png)
-
-启动界面：
-
-![pico start](assets/screenshots/pico-start.png)
-
-REPL 内置命令与会话路径：
-
-![pico repl](assets/screenshots/pico-repl.png)
 
 ## 安装
 
